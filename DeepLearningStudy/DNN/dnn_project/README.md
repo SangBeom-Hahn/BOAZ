@@ -1,4 +1,4 @@
-# Vanilla_GAN
+# DNN
 Tensorflow implementation of DNN
 
 ## Requirements
@@ -23,47 +23,26 @@ model.add(keras.layers.Dense(NB_CLASSES,
 
 
 ## Model
-![model](./assests/graph.png)
+![model](./assests/model.png)
 
-```python
-loss_D = tf.reduce_mean(tf.log(D_real) + tf.log(1 - D_gene))
-loss_G = tf.reduce_mean(tf.log(D_gene))
-```
-## Training details (epoch < 100)
-### loss_D
-![loss_D_100](./assests/loss_D_100.JPG)
 
-### loss_G
-![loss_G_100](./assests/loss_G_100.JPG)
 
-## Training details (epoch < 1000)
-### loss_D
-![loss_D](./assests/loss_D.JPG)
+## Training details (epoch < 200)
+### accuracy
+![loss_D_100](./assests/acc_graph.PNG)
 
-### loss_G
-![loss_G](./assests/loss_G.JPG)
+### loss
+![loss_G_100](./assests/loss_graph.PNG)
 
-*Even though each of loss_D and loss_G are maximized, loss_D and loss_G are related to each other, so the two loss values will not always tend to increase together.*
-
-*If loss_D increases, loss_G should decrease, and if loss_G increases, loss_D should decrease.*
-
-*Because it is an adversarial relationship.*
 
 ## Results
-### epoch=0
-![epoch_0](./samples/000.png)
+### test_accuracy
+![test_acc](./assests/test_acc.PNG)
 
-### epoch=100
-![epoch_100](./samples/100.png)
+### test_loss
+![test_loss](./assests/test_loss.PNG)
 
-### epoch=300
-![epoch_300](./samples/300.png)
 
-### epoch=600
-![epoch_600](./samples/600.png)
-
-### epoch=900
-![epoch_900](./samples/900.png)
 
 ## Author
-Junho Kim
+SangBeom-Hahn
