@@ -11,6 +11,10 @@
     
 02. Convolution_Neural_Network
 
+    - Chapter 3, 4 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/CNN/%EC%B1%95%ED%84%B0_3%2C_4.ipynb)]
+    - CNN_Project_Fail [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/CNN/cnn_project/CNN_%EB%AF%B8%EB%8B%88_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)]
+    - CNN_Project_Success [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/DeepLearningStudy/CNN/cnn_project)]
+
 02. Recurrent_Neural_Network
 
 
