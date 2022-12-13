@@ -32,4 +32,4 @@ jupyter lab
 👤 **SangBoem-Hahn**
 
 - Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
-- Blog : [Tistory](https://hsb422.tistory.com/category/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%28%EA%B5%90%EA%B3%BC%EB%AA%A9%29%5D)
+- Blog : [Tistory(deep_learning_study)](https://hsb422.tistory.com/category/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%28%EA%B5%90%EA%B3%BC%EB%AA%A9%29%5D)
