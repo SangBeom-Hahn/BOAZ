@@ -39,7 +39,7 @@ Inference new image of CNN
 ![test_acc](./assests/input.PNG)
 
 ### output_predict
-![test_loss](./assests/output.PNG)
+![test_loss](./assests/output2.PNG)
 
 
 
