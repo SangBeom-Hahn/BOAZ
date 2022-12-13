@@ -18,7 +18,7 @@
 03. Recurrent_Neural_Network
 
 
-04. Advance
+04. Extra
 
     - Chapter 5 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/advanced/5%EC%9E%A5.ipynb)]
 
