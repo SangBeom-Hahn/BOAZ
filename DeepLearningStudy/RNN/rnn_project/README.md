@@ -1,4 +1,4 @@
-# CNN
+# RNN
 Sentiment Analysis of RNN
 
 ## Requirements
