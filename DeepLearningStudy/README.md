@@ -17,9 +17,9 @@
 
 03. Recurrent_Neural_Network
     - Chapter 7 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/RNN/7%EC%9E%A5.ipynb)]
+    - Chapter 8 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/RNN/8%EC%9E%A5.ipynb)]
     - RNN_Project [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/DeepLearningStudy/RNN/rnn_project)]
-    
-
+   
 
 04. Extra
 
@@ -35,7 +35,7 @@ jupyter lab
 
 01. [TensorFlow](https://www.tensorflow.org/tutorials)
 02. [SuanLab](www.suanlab.com)
-3. [Mcode](https://mcode.co.kr/)
+03. [Mcode](https://mcode.co.kr/)
 
 
 
