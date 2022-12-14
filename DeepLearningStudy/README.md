@@ -16,6 +16,9 @@
     - CNN_Project_Success [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/DeepLearningStudy/CNN/cnn_project)]
 
 03. Recurrent_Neural_Network
+    - Chapter 7 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/RNN/7%EC%9E%A5.ipynb)]
+
+
 
 
 04. Extra
