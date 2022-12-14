@@ -18,7 +18,7 @@ Inference new image of CNN
 ```
 
 
-## [Issue]
+## Issue
 
 * [X] 컬러 이미지를 흑백으로 변환하지 못하는 문제
 * [X] batch 차원을 추가하지 못하는 문제
