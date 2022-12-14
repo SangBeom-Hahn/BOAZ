@@ -17,8 +17,8 @@
 
 03. Recurrent_Neural_Network
     - Chapter 7 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/DeepLearningStudy/RNN/7%EC%9E%A5.ipynb)]
-
-
+    - RNN_Project [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/DeepLearningStudy/RNN/rnn_project)]
+    
 
 
 04. Extra
