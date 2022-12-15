@@ -33,10 +33,7 @@ jupyter lab
 
 ## Related Views
 
-01. [TensorFlow](https://www.tensorflow.org/tutorials)
-02. [SuanLab](www.suanlab.com)
-03. [Mcode](https://mcode.co.kr/)
-
+01. [TensorFlow](http://www.acornpub.co.kr/book/tensorflow2-keras-deeplearning)
 
 
 ## Author
