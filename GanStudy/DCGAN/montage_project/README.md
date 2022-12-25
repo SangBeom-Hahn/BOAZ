@@ -48,7 +48,7 @@ def build_generator(z_dim):
 ![test_acc](./assests/result1.PNG)
 
 ### epoch=20000
-![test_loss](./assests/result2.PNG)
+![test_loss](./assests/result2.png)
 
 ### epoch=2000
 ![test_loss](./assests/result.PNG)
