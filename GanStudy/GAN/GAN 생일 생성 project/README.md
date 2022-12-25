@@ -30,7 +30,7 @@ X_train = np.array(X_train)
 
 
 ## Model
-![model](./assests/model.png)
+![model](./assests/model.PNG)
 
 
 ## Results
