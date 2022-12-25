@@ -40,7 +40,7 @@ def build_generator(z_dim):
 ## Training details (epoch < 20000)
 
 ### loss
-![loss_G_100](./assests/loss.PNG)
+![loss_G_100](./assests/loss.png)
 
 
 ## Results
