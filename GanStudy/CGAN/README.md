@@ -60,7 +60,7 @@ def build_cgan_discriminator(img_shape):
 
 
 ## Disciminator
-![model](./assests/disciminator.PNG)
+![model](./assests/discriminator.PNG)
 
 
 ## Results
