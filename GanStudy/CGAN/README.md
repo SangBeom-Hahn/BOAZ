@@ -56,11 +56,11 @@ def build_cgan_discriminator(img_shape):
 
 
 ## Generator
-![model](./assests/generator.png)
+![model](./assests/generator.PNG)
 
 
 ## Disciminator
-![model](./assests/disciminator.png)
+![model](./assests/disciminator.PNG)
 
 
 ## Results
