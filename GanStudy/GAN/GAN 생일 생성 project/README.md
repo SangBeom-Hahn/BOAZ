@@ -35,7 +35,7 @@ X_train = np.array(X_train)
 
 ## Results
 ### generate my birthday 99.09.17
-![test_acc](./assests/result.PNG)
+![result](./assests/res.PNG)
 
 
 
