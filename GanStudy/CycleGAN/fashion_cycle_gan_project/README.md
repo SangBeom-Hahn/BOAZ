@@ -50,7 +50,7 @@ class CycleGAN(CycleGAN):
 
 
 ## Generator
-![model](./assests/generator.png)
+![model](./assests/generate.png)
 
 
 ## Results
