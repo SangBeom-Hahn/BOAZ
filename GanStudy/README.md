@@ -28,8 +28,8 @@
     - Fashion_CycylGAN_Project [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/GanStudy/CGAN)]
     
 6. Pix2Pix
-    - Chapter 9 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/GanStudy/DCGAN/4%EC%9E%A5_DCGAN.ipynb)]
-    - Fashion_Pix2Pix_Project [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/GanStudy/CGAN)]
+    - Chapter 9 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/GanStudy/Pix2Pix/10%EC%9E%A5_pix2pix.ipynb)]
+    - Fashion_Pix2Pix_Project [[directory](https://github.com/SangBeom-Hahn/BOAZ/tree/main/GanStudy/Pix2Pix/fashion_pix2pix_project)]
     
 7. Extra
     - Chapter 6 [[Colab](https://github.com/SangBeom-Hahn/BOAZ/blob/main/GanStudy/Extra/6%EC%9E%A5_progan.ipynb)]
