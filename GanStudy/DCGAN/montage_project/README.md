@@ -50,7 +50,7 @@ def build_generator(z_dim):
 ### epoch=20000
 ![test_loss](./assests/result2.png)
 
-### epoch=2000
+### epoch=20000
 ![test_loss](./assests/result.PNG)
 
 
