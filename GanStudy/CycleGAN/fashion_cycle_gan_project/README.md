@@ -67,4 +67,9 @@ class CycleGAN(CycleGAN):
 ![test_acc](./assests/epoch50.png)
 
 ## Author
-SangBeom-Hahn
+
+👤 **SangBoem-Hahn**
+
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(CycleGAN)](https://hsb422.tistory.com/entry/220926-GAN-PARTCGAN-CycleGAN)
+---
