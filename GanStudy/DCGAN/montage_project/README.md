@@ -55,4 +55,9 @@ def build_generator(z_dim):
 
 
 ## Author
-SangBeom-Hahn
+
+👤 **SangBoem-Hahn**
+
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(DCGAN)](https://hsb422.tistory.com/entry/GAN-PART%EC%B5%9C%EC%8B%A0-GAN-%EA%B8%B0%EC%88%A0)
+---
