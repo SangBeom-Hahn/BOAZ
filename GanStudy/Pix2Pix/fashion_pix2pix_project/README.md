@@ -67,4 +67,9 @@ def Discriminator():
 
 
 ## Author
-SangBeom-Hahn
+
+👤 **SangBoem-Hahn**
+
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(pix2pix)](https://hsb422.tistory.com/entry/220928-GAN-PARTpix2pix)
+---
