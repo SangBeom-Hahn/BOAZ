@@ -38,6 +38,10 @@ X_train = np.array(X_train)
 ![result](./assests/res.PNG)
 
 
-
 ## Author
-SangBeom-Hahn
+
+👤 **SangBoem-Hahn**
+
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(vanila_GAN)](https://hsb422.tistory.com/entry/GAN-PARTGAN-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+---
