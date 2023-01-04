@@ -50,5 +50,5 @@ jupyter lab
 
 👤 **SangBoem-Hahn**
 
-- Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
-- Blog : [Tistory(GAN 넣어야함)]()
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(GAN_study)](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%28%EC%8B%AC%ED%99%94%29%5D)
