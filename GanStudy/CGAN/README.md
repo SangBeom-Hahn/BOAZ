@@ -96,4 +96,9 @@ def build_cgan_discriminator(img_shape):
 
 
 ## Author
-SangBeom-Hahn
+
+👤 **SangBoem-Hahn**
+
+- Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
+- Blog : [Tistory(CGAN)](https://hsb422.tistory.com/entry/220926-GAN-PARTCGAN-CycleGAN)
+---
